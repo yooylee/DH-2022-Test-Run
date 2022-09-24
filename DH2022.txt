@@ -1,3 +1,0 @@
-This is Intro to Git and GitHub at the 2022 Fall DH Toolbox Series.
-
-Today is Wednesday, September 28, 2022.
